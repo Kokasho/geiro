@@ -1,0 +1,2 @@
+# geiro
+theme for discord
